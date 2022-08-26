@@ -1,11 +1,11 @@
-## TensorFlow vs PyTorch comparisons
+## I. TensorFlow vs PyTorch comparisons
 * [Kirill Dubovikov. PyTorch vs TensorFlow — spotting the difference](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
 
 
 
-## TensorFlow and TensorFlow Probability
+## II. TensorFlow and TensorFlow Probability
 
-**Handbooks**
+### Handbooks
 * KC Tung. TensorFlow 2 Pocket Reference Building and Deploying Deep Learning Models
   * [BOOK](https://www.oreilly.com/library/view/tensorflow-2-pocket/9781492089179/)
   * [CODE](https://github.com/shinchan75034/tensorflow-pocket-ref)
