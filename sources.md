@@ -1,3 +1,40 @@
+## TensorFlow vs PyTorch comparisons
+* [Kirill Dubovikov. PyTorch vs TensorFlow — spotting the difference](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
+
+
+
+## TensorFlow and TensorFlow Probability
+
+**Handbooks**
+* KC Tung. TensorFlow 2 Pocket Reference Building and Deploying Deep Learning Models
+  * [BOOK](https://www.oreilly.com/library/view/tensorflow-2-pocket/9781492089179/)
+  * [CODE](https://github.com/shinchan75034/tensorflow-pocket-ref)
+  * A good reference book for Tensorflow 2
+* Xihan Li et al. A Concise Handbook of TensorFlow 2.
+  * [BOOK](https://tf.wiki/en/)
+  * It is Free. The creation of this reference book was greatly aided by Google.  
+
+**Textbooks**
+* Chris Mattmann. Machine Learning with TensorFlow (Second Edition)
+   * [BOOK](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition)
+   * [CODE](https://github.com/chrismattmann/MLwithTensorFlow2ed/tree/master/TFv2/)
+   * A decent overview of deep learning models built on top of TensorFlow
+* Oliver Dürr, Beate Sick, Elvis Murina. Probabilistic Deep Learning
+   * [BOOK](https://www.manning.com/books/probabilistic-deep-learning)
+   * [CODE](https://github.com/tensorchiefs/dl_book)
+   * A good book covering probabilistic neural networks
+* Richard McElreath. Statistical Rethinking
+  * [BOOK](https://xcelab.net/rm/statistical-rethinking/)
+  * [CODE](https://github.com/ksachdeva/rethinking-tensorflow-probability)
+  * Chapters 9 covers MCMC methods that are lacking in other books
+
+**Videos**
+* [TensorFlow Dev Summit 2020](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzuJw20FG82Lgm2SZjTdIXU)
+* [Joshua V. Dillon. TensorFlow Probability: Learning with confidence](https://www.youtube.com/watch?v=BrwKURU-wpk)
+
+**Internal details of Tensorflow**
+* [Tensorflow](https://www.tensorflow.org)
+* [TensorFlow tutorials](https://www.tensorflow.org/tutorials)
 
 ## PyTorch and Pyro
 
@@ -44,9 +81,6 @@
 * [Ampere architecture](https://developer.nvidia.com/blog/nvidia-ampere-architecture-in-depth/)
 
 
-**TensorFlow vs PyTorch
-* [Kirill Dubovikov. PyTorch vs TensorFlow — spotting the difference](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
-*
 
 
 
