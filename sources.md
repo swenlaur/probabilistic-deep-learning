@@ -2,6 +2,15 @@
 * [Kirill Dubovikov. PyTorch vs TensorFlow — spotting the difference](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
 
 
+### GPU Execution protocols for PyTorch
+* [CUDA semantics](https://pytorch.org/docs/stable/notes/cuda.html)
+* [Vinh Nguyen et al. Accelerating PyTorch with CUDA Graphs](https://pytorch.org/blog/accelerating-pytorch-with-cuda-graphs/)
+* [Kaggle. Pytorch-XLA: Understanding TPU's and XLA](https://www.kaggle.com/code/tanulsingh077/pytorch-xla-understanding-tpu-s-and-xla/notebook)
+* [TensorFloat-32](https://blogs.nvidia.com/blog/2020/05/14/tensorfloat-32-precision-format/)
+* [CUDA 11](https://devblogs.nvidia.com/cuda-11-features-revealed/)
+* [Ampere architecture](https://developer.nvidia.com/blog/nvidia-ampere-architecture-in-depth/)
+
+
 
 ## II. TensorFlow and TensorFlow Probability
 
@@ -14,7 +23,8 @@
   * [BOOK](https://tf.wiki/en/)
   * It is Free. The creation of this reference book was greatly aided by Google.  
 
-**Textbooks**
+
+### Textbooks
 * Chris Mattmann. Machine Learning with TensorFlow (Second Edition)
    * [BOOK](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition)
    * [CODE](https://github.com/chrismattmann/MLwithTensorFlow2ed/tree/master/TFv2/)
@@ -28,17 +38,21 @@
   * [CODE](https://github.com/ksachdeva/rethinking-tensorflow-probability)
   * Chapters 9 covers MCMC methods that are lacking in other books
 
-**Videos**
+
+### Videos
 * [TensorFlow Dev Summit 2020](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzuJw20FG82Lgm2SZjTdIXU)
 * [Joshua V. Dillon. TensorFlow Probability: Learning with confidence](https://www.youtube.com/watch?v=BrwKURU-wpk)
 
-**Internal details of Tensorflow**
+
+### Technical details
 * [Tensorflow](https://www.tensorflow.org)
 * [TensorFlow tutorials](https://www.tensorflow.org/tutorials)
 
-## PyTorch and Pyro
 
-**Handbooks**
+
+## III. PyTorch and Pyro
+
+### Handbooks
 * Joe Papa. PyTorch Pocket Reference Building and Deploying Deep Learning Models
   * [BOOK](https://www.oreilly.com/library/view/pytorch-pocket-reference/9781492089995/)
   * [CODE](https://github.com/joe-papa/pytorch-book)
@@ -48,7 +62,8 @@
   * [CODE](https://github.com/Apress/pytorch-recipes)
   * A really good book of reference implementations.
 
-**Textbooks**  
+
+### Textbooks
 * Jeremy Howard & Sylvain Gugger. Deep Learning for Coders with fastai & PyTorch: AI Applications Without a PhD
   * [BOOK](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)
   * [CODE](https://course.fast.ai)
@@ -62,34 +77,14 @@
   * [CODE](https://github.com/Apress/deep-learning-python-2e)
   * Could be used to cover specific topics. Is more detailed than Deep Learning with PyTorch
 
-**Universal probabilistic programming language Pyro**
+
+### Universal probabilistic programming language Pyro
 * [Official documentation](https://docs.pyro.ai/en/stable/#)
 * [Saket Choudhary. Statistical Rethinking with PyTorch and Pyro](https://saket-choudhary.me/pyro-rethinking/)
 * [Eric Cotner. Statistical Rethinking with PyTorch and Pyro](https://github.com/ecotner/statistical-rethinking)
 
-**Internal details of PyTorch**
+
+### Technical details
 * [Trevor Killeen. A Tour of PyTorch Part I - Internals](https://pytorch.org/blog/a-tour-of-pytorch-internals-1/)
 * [Trevor Killeen. PyTorch Internals Part II - The Build System](https://pytorch.org/blog/a-tour-of-pytorch-internals-2/)
 * [Edward Z. Yang. PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
-
-**GPU Execution protocol**
-* [CUDA semantics](https://pytorch.org/docs/stable/notes/cuda.html)
-* [Vinh Nguyen et al. Accelerating PyTorch with CUDA Graphs](https://pytorch.org/blog/accelerating-pytorch-with-cuda-graphs/)
-* [Kaggle. Pytorch-XLA: Understanding TPU's and XLA](https://www.kaggle.com/code/tanulsingh077/pytorch-xla-understanding-tpu-s-and-xla/notebook)
-* [TensorFloat-32](https://blogs.nvidia.com/blog/2020/05/14/tensorfloat-32-precision-format/)
-* [CUDA 11](https://devblogs.nvidia.com/cuda-11-features-revealed/)
-* [Ampere architecture](https://developer.nvidia.com/blog/nvidia-ampere-architecture-in-depth/)
-
-
-
-
-
-Pyro
-https://docs.pyro.ai/en/stable/
-
-
-
-
-
-
-Statistical rethinking
