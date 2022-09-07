@@ -1,7 +1,7 @@
 ## Legend for book sources
-**PDL:** Probabilstic Deep Learning models
-**SR:** Statistical Rethinking: A Bayesian Course with Examples in R and Stan (Second Edition)  
-**TF** Machine Learning with Tensor Flow
+* **PDL:** Probabilstic Deep Learning models
+* **SR:** Statistical Rethinking: A Bayesian Course with Examples in R and Stan (Second Edition)  
+* **TF** Machine Learning with Tensor Flow
 
 ## Classical Deep Learning
 
@@ -36,7 +36,7 @@ Additional materials:
 * [C. Olah. Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs)
 * [S. Hochreiter and J. Schmidhuber. Long Short-term Memory](https://www.researchgate.net/publication/13853244_Long_Short-term_Memory)
 
- 
+
 ### Optimisation methods (PDL 63-90)
 
 Concepts
