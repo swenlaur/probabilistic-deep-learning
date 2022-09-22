@@ -1,6 +1,13 @@
 ## I. TensorFlow vs PyTorch comparisons
 * [Kirill Dubovikov. PyTorch vs TensorFlow — spotting the difference](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
 
+https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/
+https://medium.com/aimluae/tensorflow-vs-pytorch-which-will-be-the-top-deep-learning-framework-in-2022-a3488635029
+
+https://www.projectpro.io/article/pytorch-vs-tensorflow-2021-a-head-to-head-comparison/416
+
+https://www.youtube.com/watch?v=HgGyWS40g-g
+https://theaisummer.com/distributed-training/
 
 ### GPU Execution protocols for PyTorch
 * [CUDA semantics](https://pytorch.org/docs/stable/notes/cuda.html)
@@ -79,12 +86,33 @@
 
 
 ### Universal probabilistic programming language Pyro
+
+* Fritz Obermeyer, Deep probabilistic programming with Pyro
+  * [VIDEO](https://www.youtube.com/watch?v=H6BPgSiobYI&list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS&t=3390s)
+  * [SLIDES](https://docs.google.com/presentation/d/1skQFd5quqVt5-7B_SdmXtY7UnITn4BqsGp_LwdPwxoU/preview?slide=id.p)
+
+* Probabilistic Programming with Pyro (Conference on Uncertainty in Artificial Intelligence 2018)
+  * [VIDEOS](https://www.youtube.com/playlist?list=PLqDaBXsXAF8px54HwZk8dWUfzfhYTrPDH)
+  * [SLIDES](https://forum.pyro.ai/t/pyro-tutorial-videos-mltrain-uai2018/416)
+
+
 * [Official documentation](https://docs.pyro.ai/en/stable/#)
 * [Saket Choudhary. Statistical Rethinking with PyTorch and Pyro](https://saket-choudhary.me/pyro-rethinking/)
 * [Eric Cotner. Statistical Rethinking with PyTorch and Pyro](https://github.com/ecotner/statistical-rethinking)
+
 
 
 ### Technical details
 * [Trevor Killeen. A Tour of PyTorch Part I - Internals](https://pytorch.org/blog/a-tour-of-pytorch-internals-1/)
 * [Trevor Killeen. PyTorch Internals Part II - The Build System](https://pytorch.org/blog/a-tour-of-pytorch-internals-2/)
 * [Edward Z. Yang. PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
+
+
+https://forum.pyro.ai/t/resources-to-learn-pyro/2357/2
+
+?? https://github.com/probtorch/probtorch
+
+??
+https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/lehre/probabilistic-machine-learning/
+
+https://ethz.ch/content/dam/ethz/special-interest/math/statistics/sfs/Education/Advanced%20Studies%20in%20Applied%20Statistics/course-material-1921/DeepLearning/01_Introduction.pdf
