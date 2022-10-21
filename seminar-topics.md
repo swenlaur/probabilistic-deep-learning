@@ -60,8 +60,11 @@ Concepts
 * Kullback-Leibler divergence
 * Mean square error and negative log-likelihood
 
-Additional materials
-* ??
+Additional materials about the interpretation of Kullback-Leibler divergence
+* [Sanjeev R. Kulkarni. Information, Entropy, and Coding](https://www.princeton.edu/~cuff/ele201/kulkarni_text/information.pdf)
+* [Zachary Robertson. KL Divergence as Code Patching Efficiency](https://www.lesswrong.com/posts/42yPvyppEoBdQZsp3/kl-divergence-as-code-patching-efficiency)
+* [Will Kurt. Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
+
 
 ## Attaching probability to outcomes
 
