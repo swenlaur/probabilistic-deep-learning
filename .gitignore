@@ -1,5 +1,13 @@
+# Standard garbage
 .DS_Store
 *.synctex.gz
 */.ipynb_checkpoints/
+*/__pycache__/
 
+# TeX garbage
+*/illustration_sources/*.aux
+*/illustration_sources/*.log
+*/illustration_sources/*.pdf
+
+# Hidden uncommited directory
 incomplete/

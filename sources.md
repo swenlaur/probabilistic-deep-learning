@@ -9,6 +9,7 @@ https://www.projectpro.io/article/pytorch-vs-tensorflow-2021-a-head-to-head-comp
 https://www.youtube.com/watch?v=HgGyWS40g-g
 https://theaisummer.com/distributed-training/
 
+
 ### GPU Execution protocols for PyTorch
 * [CUDA semantics](https://pytorch.org/docs/stable/notes/cuda.html)
 * [Vinh Nguyen et al. Accelerating PyTorch with CUDA Graphs](https://pytorch.org/blog/accelerating-pytorch-with-cuda-graphs/)
@@ -84,6 +85,9 @@ https://theaisummer.com/distributed-training/
   * [CODE](https://github.com/Apress/deep-learning-python-2e)
   * Could be used to cover specific topics. Is more detailed than Deep Learning with PyTorch
 
+### Technical details
+* https://towardsdatascience.com/installing-pytorch-on-apple-m1-chip-with-gpu-acceleration-3351dc44d67c
+
 
 ### Universal probabilistic programming language Pyro
 
@@ -106,6 +110,7 @@ https://theaisummer.com/distributed-training/
 * [Trevor Killeen. A Tour of PyTorch Part I - Internals](https://pytorch.org/blog/a-tour-of-pytorch-internals-1/)
 * [Trevor Killeen. PyTorch Internals Part II - The Build System](https://pytorch.org/blog/a-tour-of-pytorch-internals-2/)
 * [Edward Z. Yang. PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
+
 
 
 https://forum.pyro.ai/t/resources-to-learn-pyro/2357/2
