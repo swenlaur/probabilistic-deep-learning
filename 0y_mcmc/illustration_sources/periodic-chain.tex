@@ -1,0 +1,30 @@
+\documentclass{article}
+\usepackage[dvipsnames]{xcolor}
+\usepackage[paperwidth=8cm, paperheight=5.0cm, margin = 0cm, top=0.25cm]{geometry}
+\usepackage{amsmath}
+
+
+\usepackage{pgf}
+\usepackage{tikz}
+\usetikzlibrary{positioning, calc}
+\usetikzlibrary{arrows,automata}
+
+
+
+\renewcommand{\vec}[1]{\boldsymbol{#1}}
+
+\begin{document}
+\begin{center}
+\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2.8cm,semithick]
+                    
+\node[state] (X0)                             {$0$}; 
+\node[state] (X1) [left of=X0, yshift=-3.5cm] {$1$};
+\node[state] (X2) [right of=X0, yshift=-3.5cm]{$2$};
+\path
+	(X0) edge[bend right=0] node[above, yshift=+0.1cm]{$1$} (X1)
+	(X1) edge[bend right=0] node[below, yshift=-0.1cm]{$1$} (X2)
+	(X2) edge[bend left=0]  node[above, yshift=+0.1cm]{$1$} (X0);
+\end{tikzpicture}
+\end{center}
+
+\end{document}
