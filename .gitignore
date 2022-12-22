@@ -1,3 +1,5 @@
 .DS_Store
 *.synctex.gz
 */.ipynb_checkpoints/
+
+incomplete/
